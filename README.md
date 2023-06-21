@@ -4,7 +4,7 @@
 
 - Email: aldwindaveee@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aldwin-dave-conahap-0aa731213/
-- Resume Link: aldwindaveconahap.jobs180.com
+- Resume Link: https://aldwindaveconahap.jobs180.com/
 
 <!---
 aldwindavee/aldwindavee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
