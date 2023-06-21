@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aldwin Dave Conahap
-- 🌱 BS Applied Mathematics graduate at University of the Philippines Mindanao
+- 🌱 Applied Mathematics graduate at University of the Philippines Mindanao
 - 👀 I’m interested in Statistics, Machine Learning, Deep Learning, and Operations Research
 
 - Email: aldwindaveee@gmail.com
